@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ToDo on Erica-Blog</title>
+    <link>https://erica423.github.io/tags/todo/</link>
+    <description>Recent content in ToDo on Erica-Blog</description>
+    <image>
+      <title>Erica-Blog</title>
+      <url>https://erica423.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://erica423.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 23 May 2024 23:32:47 +0800</lastBuildDate>
+    <atom:link href="https://erica423.github.io/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ToDo | 学习进度</title>
+      <link>https://erica423.github.io/posts/todo/</link>
+      <pubDate>Thu, 23 May 2024 23:32:47 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/todo/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://erica423.github.io/images/2bf32da2eb187770547951ab772ab92.png&#34; alt=&#34;000&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;2024暑期找实习学习进度&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;计划：golang后端开发&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;实习的准备程度:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offer1  leetcode 350&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 计算机网络: 小林coding图解网络 计算机网络自顶向下&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 操作系统: 小林coding图解系统 操作系统导论&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Mysql: MySQL必知必会  从根上理解MySQL  小林MySQL图解&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Redis: Redis设计与实现  小林coding Redis部分&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;编程语言:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Go: Go语言圣经 GoWeb编程 Go语言设计与实现 Go专家编程&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; C++:  &amp;lt;C++ Primer&amp;gt;  &amp;lt;Efficient C++&amp;gt; &amp;lt;TCP/IP网络编程&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 项目写一个Redis单机服务器, 另外还有一个就是https://betxin.one了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;go&#34;&gt;Go&lt;/h2&gt;
+&lt;h3 id=&#34;1-语言基础&#34;&gt;1. 语言基础&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《Go语言学习笔记》（语法部分）&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 单测练手：&lt;a href=&#34;https://studygolang.gitbook.io/learn-go-with-tests/gou-jian-ying-yong-cheng-xu/http-server&#34;&gt;learn-go-with-tests&lt;/a&gt; （全部部分）&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Go底层 b站视频&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-进阶&#34;&gt;2. 进阶&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《Go Web编程》&lt;a href=&#34;https://www.bookstack.cn/read/Go-Web&#34;&gt;link&lt;/a&gt; （5.9 finish）&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Gin (5.10)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Gorm &lt;a href=&#34;https://gorm.io/zh_CN/docs/index.html&#34;&gt;文档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 微服务框架：go-zero (√) / kratos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-项目&#34;&gt;3. 项目&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; pacgo 吃豆子项目&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 7daysGolang &lt;a href=&#34;https://github.com/geektutu/7days-golang&#34;&gt;link&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Gee &lt;a href=&#34;https://geektutu.com/post/gee.html&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; go-gin-example &lt;a href=&#34;https://github.com/eddycjy/go-gin-example&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 搭建自己的blog：静态Hugo，维护中&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 在学项目：基于go-zero的IM实时聊天项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;go面经&#34;&gt;Go面经&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Go大厂面试真题(130页-带答案).pdf&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Go后端开发大厂面试题(八股文-188页-带答案).pdf&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Golang修养之路.pdf&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Golang开发岗面试笔记(26页-带答案).pdf&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Go程序员面试笔试宝典.txt  &lt;a href=&#34;https://golang.design/go-questions/slice/vs-array/&#34;&gt;链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Golang常见面试题解析(129页-带答案).pdf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;算法&#34;&gt;算法&lt;/h2&gt;
+&lt;p&gt;代码随想录: &lt;a href=&#34;https://programmercarl.com/#%E6%9C%AC%E7%AB%99%E8%83%8C%E6%99%AF&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

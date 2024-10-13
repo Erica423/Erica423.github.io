@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technique on Erica-Blog</title>
+    <link>https://erica423.github.io/tags/technique/</link>
+    <description>Recent content in Technique on Erica-Blog</description>
+    <image>
+      <title>Erica-Blog</title>
+      <url>https://erica423.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://erica423.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 15 Jul 2024 18:48:27 +0800</lastBuildDate>
+    <atom:link href="https://erica423.github.io/tags/technique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech | Go八股总结</title>
+      <link>https://erica423.github.io/posts/tech/</link>
+      <pubDate>Sun, 26 May 2024 14:25:21 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/tech/</guid>
+      <description>常见golang面经技术要点笔记</description>
+    </item>
+    <item>
+      <title>Tech | RPC相关技术</title>
+      <link>https://erica423.github.io/posts/rpc/</link>
+      <pubDate>Mon, 15 Jul 2024 18:48:27 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/rpc/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Tech | 单元测试</title>
+      <link>https://erica423.github.io/posts/singletest/</link>
+      <pubDate>Sun, 23 Jun 2024 15:52:48 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/singletest/</guid>
+      <description>单元测试相关的技术文档</description>
+    </item>
+    <item>
+      <title>Q&amp;A | 面试题汇总</title>
+      <link>https://erica423.github.io/posts/question/</link>
+      <pubDate>Mon, 27 May 2024 15:42:23 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/question/</guid>
+      <description>不会的面试题记录</description>
+    </item>
+  </channel>
+</rss>

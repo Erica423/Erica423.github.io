@@ -4,11 +4,6 @@
     <title>Categories on Erica-Blog</title>
     <link>https://erica423.github.io/categories/</link>
     <description>Recent content in Categories on Erica-Blog</description>
-    <image>
-      <title>Erica-Blog</title>
-      <url>https://erica423.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://erica423.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>zh</language>
     <atom:link href="https://erica423.github.io/categories/index.xml" rel="self" type="application/rss+xml" />

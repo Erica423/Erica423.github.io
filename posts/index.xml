@@ -4,7 +4,7 @@
     <title>Posts on Erica-Blog</title>
     <link>https://erica423.github.io/posts/</link>
     <description>Recent content in Posts on Erica-Blog</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 15 Jul 2024 18:48:27 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -20,28 +20,65 @@
       <link>https://erica423.github.io/posts/todo/</link>
       <pubDate>Thu, 23 May 2024 23:32:47 +0800</pubDate>
       <guid>https://erica423.github.io/posts/todo/</guid>
-      <description>2024暑期找实习学习进度 计划：golang后端开发 实习的准备程度: 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offe</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://erica423.github.io/images/2bf32da2eb187770547951ab772ab92.png&#34; alt=&#34;000&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;2024暑期找实习学习进度&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;计划：golang后端开发&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;实习的准备程度:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offer1  leetcode 350&lt;/p&gt;</description>
     </item>
     <item>
       <title>First | 我的第一篇博文</title>
       <link>https://erica423.github.io/posts/first/</link>
       <pubDate>Thu, 23 May 2024 15:55:03 +0800</pubDate>
       <guid>https://erica423.github.io/posts/first/</guid>
-      <description>基于Hugo搭建的个人静态博客，使用主题theme为Hugo_PaperMod 记录每天的生活和学习的技术总结，加油！</description>
+      <description>&lt;p&gt;基于Hugo搭建的个人静态博客，使用主题theme为&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;Hugo_PaperMod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;记录每天的生活和学习的技术总结，加油！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech | RPC相关技术</title>
       <link>https://erica423.github.io/posts/rpc/</link>
       <pubDate>Mon, 15 Jul 2024 18:48:27 +0800</pubDate>
       <guid>https://erica423.github.io/posts/rpc/</guid>
-      <description>Go 语言广泛地应用于云计算和微服务，成熟的 RPC 框架和微服务框架汗牛充栋。grpc、rpcx、go-micro 等都是非常成熟的框架。一般而言，RP</description>
+      <description>&lt;p&gt;Go 语言广泛地应用于云计算和微服务，成熟的 RPC 框架和微服务框架汗牛充栋。grpc、rpcx、go-micro 等都是非常成熟的框架。一般而言，RPC 是微服务框架的一个子集，微服务框架可以自己实现 RPC 部分，当然，也可以选择不同的 RPC 框架作为通信基座。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech | 单元测试</title>
       <link>https://erica423.github.io/posts/singletest/</link>
       <pubDate>Sun, 23 Jun 2024 15:52:48 +0800</pubDate>
       <guid>https://erica423.github.io/posts/singletest/</guid>
-      <description>go在线编译器：go playground Test-Driven Development(TDD) - 测试驱动开发 周期： 编写一个测试 让编译通过 运行测试，查看失败原因并检查错误消息是很有意义的 编写足够的代码以使测试通</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;go在线编译器：&lt;a href=&#34;https://go.dev/play/p/ICCWcRGIO68&#34;&gt;go playground&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;test-driven-developmenttdd---测试驱动开发&#34;&gt;Test-Driven Development(TDD) - 测试驱动开发&lt;/h2&gt;
+&lt;p&gt;周期：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;编写一个测试&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;让编译通过&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;运行测试，查看失败原因并检查错误消息是很有意义的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;编写足够的代码以使测试通过&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重构&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;常用功能&#34;&gt;常用功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;测试文件命名规则：xxx_test.go, 与xxx.go放在同一个package下&lt;/p&gt;</description>
     </item>
     <item>
       <title>Q&amp;A | 面试题汇总</title>

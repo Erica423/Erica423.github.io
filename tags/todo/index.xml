@@ -2,30 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ToDo on Erica-Blog</title>
-    <link>https://erica423.github.io/tags/todo/</link>
+    <link>http://localhost:1313/tags/todo/</link>
     <description>Recent content in ToDo on Erica-Blog</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 23 May 2024 23:32:47 +0800</lastBuildDate>
-    <atom:link href="https://erica423.github.io/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ToDo | 学习进度</title>
-      <link>https://erica423.github.io/posts/todo/</link>
+      <link>http://localhost:1313/posts/todo/</link>
       <pubDate>Thu, 23 May 2024 23:32:47 +0800</pubDate>
-      <guid>https://erica423.github.io/posts/todo/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://erica423.github.io/images/2bf32da2eb187770547951ab772ab92.png&#34; alt=&#34;000&#34;  /&gt;
-&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2024暑期找实习学习进度&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;计划：golang后端开发&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;实习的准备程度:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offer1  leetcode 350&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/todo/</guid>
+      <description>2024暑期找实习学习进度 计划：golang后端开发 实习的准备程度: 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offe</description>
     </item>
   </channel>
 </rss>

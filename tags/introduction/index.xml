@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Introduction on Erica-Blog</title>
-    <link>https://erica423.github.io/tags/introduction/</link>
+    <link>http://localhost:1313/tags/introduction/</link>
     <description>Recent content in Introduction on Erica-Blog</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 23 May 2024 15:55:03 +0800</lastBuildDate>
-    <atom:link href="https://erica423.github.io/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First | 我的第一篇博文</title>
-      <link>https://erica423.github.io/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Thu, 23 May 2024 15:55:03 +0800</pubDate>
-      <guid>https://erica423.github.io/posts/first/</guid>
-      <description>&lt;p&gt;基于Hugo搭建的个人静态博客，使用主题theme为&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;Hugo_PaperMod&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;记录每天的生活和学习的技术总结，加油！&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>基于Hugo搭建的个人静态博客，使用主题theme为Hugo_PaperMod 记录每天的生活和学习的技术总结，加油！</description>
     </item>
   </channel>
 </rss>

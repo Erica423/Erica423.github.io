@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on Erica-Blog</title>
+    <link>https://erica423.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on Erica-Blog</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 23 May 2024 15:55:03 +0800</lastBuildDate>
+    <atom:link href="https://erica423.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Github Actions实现Hugo静态博客自动部署</title>
+      <link>https://erica423.github.io/posts/first/</link>
+      <pubDate>Thu, 23 May 2024 15:55:03 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/first/</guid>
+      <description>使用Github Actions实现Hugo静态博客在Github Pages CI/CD自动部署</description>
+    </item>
+  </channel>
+</rss>

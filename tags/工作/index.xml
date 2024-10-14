@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工作 on Erica-Blog</title>
+    <link>https://erica423.github.io/tags/%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 工作 on Erica-Blog</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 27 May 2024 15:42:23 +0800</lastBuildDate>
+    <atom:link href="https://erica423.github.io/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Q&amp;A | 秋招面经</title>
+      <link>https://erica423.github.io/posts/question/</link>
+      <pubDate>Mon, 27 May 2024 15:42:23 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/question/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;go&#34;&gt;Go&lt;/h2&gt;
+&lt;h3 id=&#34;1-垃圾回收-garbage-collection&#34;&gt;1. 垃圾回收 (Garbage Collection)&lt;/h3&gt;
+&lt;p&gt;垃圾回收就是对程序中不再使用的内存资源进行自动回收的操作。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;引用计数&lt;/li&gt;
+&lt;li&gt;标记 - 清除  缺点：需要STW（stop the world）&lt;/li&gt;
+&lt;li&gt;分代收集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GC的触发条件：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

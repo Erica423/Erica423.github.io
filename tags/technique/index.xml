@@ -53,12 +53,5 @@
 &lt;li&gt;
 &lt;p&gt;测试文件命名规则：xxx_test.go, 与xxx.go放在同一个package下&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Q&amp;A | 面试题汇总</title>
-      <link>https://erica423.github.io/posts/question/</link>
-      <pubDate>Mon, 27 May 2024 15:42:23 +0800</pubDate>
-      <guid>https://erica423.github.io/posts/question/</guid>
-      <description>不会的面试题记录</description>
-    </item>
   </channel>
 </rss>

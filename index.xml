@@ -16,7 +16,7 @@
       <description>常见golang面经技术要点笔记</description>
     </item>
     <item>
-      <title>ToDo | 学习进度</title>
+      <title>ToDo List</title>
       <link>https://erica423.github.io/posts/todo/</link>
       <pubDate>Thu, 23 May 2024 23:32:47 +0800</pubDate>
       <guid>https://erica423.github.io/posts/todo/</guid>
@@ -33,14 +33,6 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offer1  leetcode 350&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First | 我的第一篇博文</title>
-      <link>https://erica423.github.io/posts/first/</link>
-      <pubDate>Thu, 23 May 2024 15:55:03 +0800</pubDate>
-      <guid>https://erica423.github.io/posts/first/</guid>
-      <description>&lt;p&gt;基于Hugo搭建的个人静态博客，使用主题theme为&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;Hugo_PaperMod&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;记录每天的生活和学习的技术总结，加油！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech | RPC相关技术</title>
@@ -81,11 +73,27 @@
 &lt;p&gt;测试文件命名规则：xxx_test.go, 与xxx.go放在同一个package下&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Q&amp;A | 面试题汇总</title>
+      <title>Q&amp;A | 秋招面经</title>
       <link>https://erica423.github.io/posts/question/</link>
       <pubDate>Mon, 27 May 2024 15:42:23 +0800</pubDate>
       <guid>https://erica423.github.io/posts/question/</guid>
-      <description>不会的面试题记录</description>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;go&#34;&gt;Go&lt;/h2&gt;
+&lt;h3 id=&#34;1-垃圾回收-garbage-collection&#34;&gt;1. 垃圾回收 (Garbage Collection)&lt;/h3&gt;
+&lt;p&gt;垃圾回收就是对程序中不再使用的内存资源进行自动回收的操作。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;引用计数&lt;/li&gt;
+&lt;li&gt;标记 - 清除  缺点：需要STW（stop the world）&lt;/li&gt;
+&lt;li&gt;分代收集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GC的触发条件：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>使用Github Actions实现Hugo静态博客自动部署</title>
+      <link>https://erica423.github.io/posts/first/</link>
+      <pubDate>Thu, 23 May 2024 15:55:03 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/first/</guid>
+      <description>使用Github Actions实现Hugo静态博客在Github Pages CI/CD自动部署</description>
     </item>
   </channel>
 </rss>

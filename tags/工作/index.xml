@@ -4,34 +4,23 @@
     <title>工作 on Erica-Blog</title>
     <link>https://erica423.github.io/tags/%E5%B7%A5%E4%BD%9C/</link>
     <description>Recent content in 工作 on Erica-Blog</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 15 Oct 2024 14:57:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 14:57:57 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>项目经验</title>
       <link>https://erica423.github.io/posts/project/</link>
-      <pubDate>Tue, 15 Oct 2024 14:57:57 +0800</pubDate>
+      <pubDate>Thu, 15 Aug 2024 14:57:57 +0800</pubDate>
       <guid>https://erica423.github.io/posts/project/</guid>
-      <description>&lt;h2 id=&#34;kv存储项目&#34;&gt;kv存储项目&lt;/h2&gt;
-&lt;p&gt;一个db的实例理解成os上的文件夹，除了一些配置，关注的是数据文件，最主要的是当前的活跃文件，only用来w操作，追加到文件尾部。&lt;/p&gt;
-&lt;p&gt;写入的数据称作entry，结构：&lt;/p&gt;</description>
+      <description>kv存储项目 一个db的实例理解成os上的文件夹，除了一些配置，关注的是数据文件，最主要的是当前的活跃文件，only用来w操作，追加到文件尾部</description>
     </item>
     <item>
       <title>Q&amp;A | 秋招面经</title>
       <link>https://erica423.github.io/posts/question/</link>
-      <pubDate>Mon, 27 May 2024 15:42:23 +0800</pubDate>
+      <pubDate>Sat, 27 Apr 2024 15:42:23 +0800</pubDate>
       <guid>https://erica423.github.io/posts/question/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;go&#34;&gt;Go&lt;/h2&gt;
-&lt;h3 id=&#34;1-垃圾回收-garbage-collection&#34;&gt;1. 垃圾回收 (Garbage Collection)&lt;/h3&gt;
-&lt;p&gt;垃圾回收就是对程序中不再使用的内存资源进行自动回收的操作。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;引用计数&lt;/li&gt;
-&lt;li&gt;标记 - 清除  缺点：需要STW（stop the world）&lt;/li&gt;
-&lt;li&gt;分代收集&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;GC的触发条件：&lt;/p&gt;</description>
+      <description>Go 1. 垃圾回收 (Garbage Collection) 垃圾回收就是对程序中不再使用的内存资源进行自动回收的操作。 引用计数 标记 - 清除 缺点：需要STW（stop the world） 分代收集</description>
     </item>
   </channel>
 </rss>

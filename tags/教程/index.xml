@@ -4,14 +4,14 @@
     <title>教程 on Erica-Blog</title>
     <link>https://erica423.github.io/tags/%E6%95%99%E7%A8%8B/</link>
     <description>Recent content in 教程 on Erica-Blog</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 23 May 2024 15:55:03 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 15:55:03 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Github Actions实现Hugo静态博客自动部署</title>
       <link>https://erica423.github.io/posts/first/</link>
-      <pubDate>Thu, 23 May 2024 15:55:03 +0800</pubDate>
+      <pubDate>Mon, 23 Sep 2024 15:55:03 +0800</pubDate>
       <guid>https://erica423.github.io/posts/first/</guid>
       <description>使用Github Actions实现Hugo静态博客在Github Pages CI/CD自动部署</description>
     </item>

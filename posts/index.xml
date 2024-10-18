@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Erica-Blog</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 23 Sep 2024 15:55:03 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 13:42:19 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【完】使用Github Actions实现Hugo静态博客自动部署</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 23 Sep 2024 15:55:03 +0800</pubDate>
       <guid>https://erica423.github.io/posts/first/</guid>
       <description>使用Github Actions实现Hugo静态博客在Github Pages CI/CD自动部署</description>
+    </item>
+    <item>
+      <title>消息队列</title>
+      <link>https://erica423.github.io/posts/mq/</link>
+      <pubDate>Fri, 18 Oct 2024 13:42:19 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/mq/</guid>
+      <description>MQ是干嘛的？消息的中转站，能存很多消息。 RocketMQ RocketMQ的相关组件和角色： producer：生产者，消息的发送者。负责将消息发送给Bro</description>
     </item>
     <item>
       <title>算法</title>

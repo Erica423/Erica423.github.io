@@ -13,7 +13,7 @@
       <link>https://erica423.github.io/posts/mq/</link>
       <pubDate>Fri, 18 Oct 2024 13:42:19 +0800</pubDate>
       <guid>https://erica423.github.io/posts/mq/</guid>
-      <description>MQ是干嘛的？消息的中转站，能存很多消息。 RocketMQ RocketMQ的相关组件和角色： producer：生产者，消息的发送者。负责将消息发送给Bro</description>
+      <description>消息队列 MQ是干嘛的？消息的中转站，能存很多消息。 应用场景： 应用解耦 ：消息队列减少了服务之间的耦合性，不同的服务可以通过消息队列进行通信，而</description>
     </item>
     <item>
       <title>项目</title>

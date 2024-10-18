@@ -9,7 +9,7 @@
     <lastBuildDate>Mon, 23 Sep 2024 15:55:03 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>使用Github Actions实现Hugo静态博客自动部署</title>
+      <title>【完】使用Github Actions实现Hugo静态博客自动部署</title>
       <link>https://erica423.github.io/posts/first/</link>
       <pubDate>Mon, 23 Sep 2024 15:55:03 +0800</pubDate>
       <guid>https://erica423.github.io/posts/first/</guid>
@@ -23,7 +23,7 @@
       <description>1 数组 1.1 数组存储 不论一维数组还是二维数组，其存储地址空间都是线性连续的。 go中 int 类型长度和操作系统的位数有关：64位的默认 int 位数为 8，32位</description>
     </item>
     <item>
-      <title>项目经验</title>
+      <title>项目</title>
       <link>https://erica423.github.io/posts/project/</link>
       <pubDate>Thu, 15 Aug 2024 14:57:57 +0800</pubDate>
       <guid>https://erica423.github.io/posts/project/</guid>
@@ -41,10 +41,10 @@
       <link>https://erica423.github.io/posts/singletest/</link>
       <pubDate>Sun, 23 Jun 2024 15:52:48 +0800</pubDate>
       <guid>https://erica423.github.io/posts/singletest/</guid>
-      <description>go在线编译器：go playground Test-Driven Development(TDD) - 测试驱动开发 周期： 编写一个测试 让编译通过 运行测试，查看失败原因并检查错误消息是很有意义的 编写足够的代码以使测试通</description>
+      <description>GO在线编译器：go playground Test-Driven Development(TDD) - 测试驱动开发 周期： 编写一个测试 让编译通过 运行测试，查看失败原因并检查错误消息是很有意义的 编写足够的代码以使测试通</description>
     </item>
     <item>
-      <title>Q&amp;A | 秋招面经</title>
+      <title>Q&amp;A | 面经</title>
       <link>https://erica423.github.io/posts/question/</link>
       <pubDate>Sat, 27 Apr 2024 15:42:23 +0800</pubDate>
       <guid>https://erica423.github.io/posts/question/</guid>
@@ -60,7 +60,7 @@
     <item>
       <title>ToDo List</title>
       <link>https://erica423.github.io/posts/todo/</link>
-      <pubDate>Sat, 23 Dec 2023 23:32:47 +0800</pubDate>
+      <pubDate>Sat, 23 Mar 2024 23:32:47 +0800</pubDate>
       <guid>https://erica423.github.io/posts/todo/</guid>
       <description>2024暑期找实习学习进度 计划：golang后端开发 实习的准备程度: 数据结构与算法: 代码随想录4 刷, 部分labuladong笔记 剑指offe</description>
     </item>

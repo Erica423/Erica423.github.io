@@ -9,14 +9,14 @@
     <lastBuildDate>Thu, 15 Aug 2024 14:57:57 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>项目经验</title>
+      <title>项目</title>
       <link>https://erica423.github.io/posts/project/</link>
       <pubDate>Thu, 15 Aug 2024 14:57:57 +0800</pubDate>
       <guid>https://erica423.github.io/posts/project/</guid>
       <description>kv存储项目 一个db的实例理解成os上的文件夹，除了一些配置，关注的是数据文件，最主要的是当前的活跃文件，only用来w操作，追加到文件尾部</description>
     </item>
     <item>
-      <title>Q&amp;A | 秋招面经</title>
+      <title>Q&amp;A | 面经</title>
       <link>https://erica423.github.io/posts/question/</link>
       <pubDate>Sat, 27 Apr 2024 15:42:23 +0800</pubDate>
       <guid>https://erica423.github.io/posts/question/</guid>

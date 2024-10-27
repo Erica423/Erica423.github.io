@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Erica-Blog</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 18 Oct 2024 13:42:19 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 15:54:06 +0800</lastBuildDate>
     <atom:link href="https://erica423.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【完】使用Github Actions实现Hugo静态博客自动部署</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 23 Sep 2024 15:55:03 +0800</pubDate>
       <guid>https://erica423.github.io/posts/first/</guid>
       <description>使用Github Actions实现Hugo静态博客在Github Pages CI/CD自动部署</description>
+    </item>
+    <item>
+      <title>深入理解Go sync.Map</title>
+      <link>https://erica423.github.io/posts/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3map/</link>
+      <pubDate>Sun, 27 Oct 2024 15:54:06 +0800</pubDate>
+      <guid>https://erica423.github.io/posts/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3map/</guid>
+      <description>众所周知，在Go中，标准内置的map类型不是并发安全的，也就是说在没有额外同步机制的情况下，多个goroutine同时读写一个 map 可能会发生竞</description>
     </item>
     <item>
       <title>消息队列</title>
